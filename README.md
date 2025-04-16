@@ -46,7 +46,7 @@ To get started with this repository, follow these steps:
 
 If you're interested in learning more about my technical expertise or would like to discuss potential opportunities, feel free to reach out:
 
-* GitHub: [your-github-username](https://github.com/qa-bob)
+* GitHub: qa-bob(https://github.com/qa-bob)
 
 **Contributing**
 ---------------
