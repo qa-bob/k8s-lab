@@ -46,8 +46,7 @@ To get started with this repository, follow these steps:
 
 If you're interested in learning more about my technical expertise or would like to discuss potential opportunities, feel free to reach out:
 
-* GitHub: [your-github-username](https://github.com/your-username)
-* LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+* GitHub: [your-github-username](https://github.com/qa-bob)
 
 **Contributing**
 ---------------
